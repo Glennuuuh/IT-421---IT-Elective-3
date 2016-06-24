@@ -8,6 +8,8 @@ For the examples in this book you will use software source code as the files bei
 though in reality you can do this with nearly any type of file on a computer.
 
 3).What are the two types of VCA, and give examples each?
+Centralized
+Distributed
 
 4).What is Git?
 Git is a version control system that is widely used for software development and other version control tasks. 
@@ -26,4 +28,4 @@ Fork/Forking
 Push/Pushing
 Bridge
 
-7).sign up a git hub account, create a repository for IT421 - IT Elective 3
+
